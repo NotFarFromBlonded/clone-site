@@ -745,7 +745,7 @@ const desktopModeProps = {
     "navImage1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/naImage1.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/naImage1.svg"
       },
       "callbacks": {
         "onClick": [
@@ -818,7 +818,7 @@ const desktopModeProps = {
     "navArrow2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/navArrow.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/navArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -831,7 +831,7 @@ const desktopModeProps = {
     "Image100": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-hamburger-menu-24.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/icons8-hamburger-menu-24.png"
       },
       "callbacks": {
         "onClick": [
@@ -904,7 +904,7 @@ const desktopModeProps = {
     "Image103": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/navArrow.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/navArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -965,7 +965,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/navArrow.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/navArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1002,7 +1002,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/creator.jpeg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/creator.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1027,7 +1027,7 @@ const desktopModeProps = {
     "Image94": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo1.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/logo1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1040,7 +1040,7 @@ const desktopModeProps = {
     "Image95": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo2.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/logo2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1053,7 +1053,7 @@ const desktopModeProps = {
     "Image96": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo3.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/logo3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1066,7 +1066,7 @@ const desktopModeProps = {
     "Image97": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo4.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/logo4.png"
       },
       "callbacks": {
         "onClick": [
@@ -1103,7 +1103,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Group%2051.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/Group%2051.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1209,7 +1209,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Group%2017.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/Group%2017.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1291,7 +1291,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435ceaed068dde60ca_Group%2016.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435ceaed068dde60ca_Group%2016.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1409,7 +1409,7 @@ const desktopModeProps = {
     "Image75": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1458,7 +1458,7 @@ const desktopModeProps = {
     "Image74": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1495,7 +1495,7 @@ const desktopModeProps = {
     "Image78": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1520,7 +1520,7 @@ const desktopModeProps = {
     "Image79": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dcc78ec31466630c033f_image_processing20200129-19798-1k8ponz%202-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6077dcc78ec31466630c033f_image_processing20200129-19798-1k8ponz%202-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1533,7 +1533,7 @@ const desktopModeProps = {
     "Image81": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dcd635f7f176db9fef1e_image_processing20200129-19798-1k8ponz%203-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6077dcd635f7f176db9fef1e_image_processing20200129-19798-1k8ponz%203-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1582,7 +1582,7 @@ const desktopModeProps = {
     "Image80": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1619,7 +1619,7 @@ const desktopModeProps = {
     "Image82": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1644,7 +1644,7 @@ const desktopModeProps = {
     "Image83": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dce7ec07854a8c820c4e_image_processing20200129-19798-1k8ponz%204-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6077dce7ec07854a8c820c4e_image_processing20200129-19798-1k8ponz%204-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1657,7 +1657,7 @@ const desktopModeProps = {
     "Image85": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dcf54baced26f174226f_image_processing20200129-19798-1k8ponz%2014-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6077dcf54baced26f174226f_image_processing20200129-19798-1k8ponz%2014-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1706,7 +1706,7 @@ const desktopModeProps = {
     "Image84": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1719,7 +1719,7 @@ const desktopModeProps = {
     "Image92": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584b6f3b7d0fb04e725e_Vector-4.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584b6f3b7d0fb04e725e_Vector-4.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1732,7 +1732,7 @@ const desktopModeProps = {
     "Image93": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584a07453d08e05572b5_Vector-3.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584a07453d08e05572b5_Vector-3.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1781,7 +1781,7 @@ const desktopModeProps = {
     "Image58": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1842,7 +1842,7 @@ const desktopModeProps = {
     "Image59": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1867,7 +1867,7 @@ const desktopModeProps = {
     "Image60": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1928,7 +1928,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1989,7 +1989,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2050,7 +2050,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584aacad011eafeb61bc_Vector-2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2135,7 +2135,7 @@ const desktopModeProps = {
     "Image65": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60751db05a9a1b47d320c2a0_image_processing20200129-19798-1k8ponz%207-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/60751db05a9a1b47d320c2a0_image_processing20200129-19798-1k8ponz%207-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -2148,7 +2148,7 @@ const desktopModeProps = {
     "Image66": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60751db04d121379342550c6_image_processing20200129-19798-1k8ponz%2011-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/60751db04d121379342550c6_image_processing20200129-19798-1k8ponz%2011-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -2161,7 +2161,7 @@ const desktopModeProps = {
     "Image67": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60751db006dd19aa20e10edf_image_processing20200129-19798-1k8ponz%2012-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/60751db006dd19aa20e10edf_image_processing20200129-19798-1k8ponz%2012-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -2174,7 +2174,7 @@ const desktopModeProps = {
     "Image68": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60751db0f84d7b28be5d1883_image_processing20200129-19798-1k8ponz%2013-min.png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/60751db0f84d7b28be5d1883_image_processing20200129-19798-1k8ponz%2013-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -2235,7 +2235,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2260,7 +2260,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2309,7 +2309,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2370,7 +2370,7 @@ const desktopModeProps = {
     "Image45": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2407,7 +2407,7 @@ const desktopModeProps = {
     "Image46": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6087cab3a74dfa369ea2e92a_Group%2084.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6087cab3a74dfa369ea2e92a_Group%2084.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2420,7 +2420,7 @@ const desktopModeProps = {
     "Image47": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6087cab3f70370b7efe8c560_Group%2085.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6087cab3f70370b7efe8c560_Group%2085.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2469,7 +2469,7 @@ const desktopModeProps = {
     "Image48": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2482,7 +2482,7 @@ const desktopModeProps = {
     "Image49": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6087cab33450e64d2fa55138_Group%2086.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6087cab33450e64d2fa55138_Group%2086.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2531,7 +2531,7 @@ const desktopModeProps = {
     "Image50": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2568,7 +2568,7 @@ const desktopModeProps = {
     "Image69": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/604788d804dfe4ec1de7bb97_image-1-compressed%20(1).jpg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/604788d804dfe4ec1de7bb97_image-1-compressed%20(1).jpg"
       },
       "callbacks": {
         "onClick": [
@@ -2581,7 +2581,7 @@ const desktopModeProps = {
     "Image70": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2666,7 +2666,7 @@ const desktopModeProps = {
     "Image101": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2679,7 +2679,7 @@ const desktopModeProps = {
     "Image102": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/604773c422dbe6174ff754e5_jake-nackos-IF9TK5Uy-KI-unsplash%2012-min%20(1).png"
+        "src": "C:/Program Files/Git/clone-site/app-assets/604773c422dbe6174ff754e5_jake-nackos-IF9TK5Uy-KI-unsplash%2012-min%20(1).png"
       },
       "callbacks": {
         "onClick": [
@@ -2692,7 +2692,7 @@ const desktopModeProps = {
     "Image71": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584ac8595f0e43b2b567_Vector-1%20(1).svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584ac8595f0e43b2b567_Vector-1%20(1).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2705,7 +2705,7 @@ const desktopModeProps = {
     "Image72": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef584a5ceaed4f77de60cb_Vector%20(1).svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef584a5ceaed4f77de60cb_Vector%20(1).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2742,7 +2742,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2767,7 +2767,7 @@ const desktopModeProps = {
     "Image33": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2804,7 +2804,7 @@ const desktopModeProps = {
     "Image34": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2841,7 +2841,7 @@ const desktopModeProps = {
     "Image35": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2890,7 +2890,7 @@ const desktopModeProps = {
     "Image36": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2927,7 +2927,7 @@ const desktopModeProps = {
     "Image37": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2964,7 +2964,7 @@ const desktopModeProps = {
     "Image38": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2989,7 +2989,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/5fef58435e05bd67f4a4c972_arrow-down-s-line%201.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3077,7 +3077,7 @@ const desktopModeProps = {
     "Image25": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6078d43538e88cf2a8ff4464_White%20Logo.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/6078d43538e88cf2a8ff4464_White%20Logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3090,7 +3090,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60792c7df85964dafaa3825d_Vector.svg"
+        "src": "C:/Program Files/Git/clone-site/app-assets/60792c7df85964dafaa3825d_Vector.svg"
       },
       "callbacks": {
         "onClick": [
