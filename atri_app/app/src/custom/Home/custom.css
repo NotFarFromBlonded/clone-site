@@ -1,0 +1,175 @@
+.p-Home.TextBox162, .p-Home.TextBox193{
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    transform: translate(7px,7px);
+}
+.p-Home.TextBox19, .p-Home.TextBox33, .p-Home.TextBox155, .p-Home.TextBox131, .p-Home.TextBox127, .p-Home.TextBox98, .p-Home.TextBox68, .p-Home.TextBox55, .p-Home.TextBox171, .p-Home.TextBox178, .p-Home.TextBox180, .p-Home.TextBox184, .p-Home.TextBox186{
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block;
+}
+
+.p-Home.Flex144{
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr 1.5fr 1fr;
+    grid-template-rows: auto auto;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+}
+
+.p-Home.Div116{
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 1;
+}
+
+.p-Home.Div119{
+    grid-column-end: 3;
+    grid-column-start: 2;
+    grid-row-end: 3;
+    grid-row-start: 1;
+}
+
+.p-Home.Image65, .p-Home.Image66, .p-Home.Image67, .p-Home.Image68, .p-Home.Image69{
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.p-Home.Image69, .p-Home.Image102{
+    filter:saturate(0%);
+}
+
+.p-Home.Div126, .p-Home.Div136{
+    white-space: nowrap;
+}
+.p-Home.Div127, .p-Home.Div177, .p-Home.Div137, .p-Home.Div149, .p-Home.Div153, .p-Home.Div157, .p-Home.Div161{
+    white-space: normal;
+}
+
+.p-Home.Div137, .p-Home.Div149, .p-Home.Div153, .p-Home.Div157, .p-Home.Div161{
+    vertical-align: top;
+}
+
+.p-Home.Flex146{
+    left: auto;
+    top: auto;
+    right: 4%;
+    bottom: 0%;
+}
+
+.p-Home.Flex174{
+    left: auto;
+    top: auto;
+    right: 5%;
+    bottom: 0%;
+}
+
+.p-Home.Flex150, .p-Home.Flex178{
+    left: auto;
+    top: auto;
+    right: 0%;
+    bottom: 0%;
+}
+
+.p-Home.Div47{
+    margin-top: -238px;
+}
+.p-Home.Flex16{
+    margin-top: -50px;
+}
+
+.p-Home.TextBox19, .p-Home.TextBox20{
+    letter-spacing: -2px;
+}
+
+.p-Home.Flex32{
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.p-Home.TextBox33, .p-Home.TextBox155, .p-Home.TextBox131, .p-Home.TextBox127, .p-Home.TextBox98, .p-Home.TextBox68, .p-Home.TextBox171, .p-Home.TextBox178, .p-Home.TextBox180, .p-Home.TextBox184, .p-Home.TextBox186{
+    letter-spacing: 4px;
+}
+
+.p-Home.TextBox55{
+    letter-spacing: 0.5px;
+}
+
+.p-Home.Image4, .p-Home.Image94, .p-Home.Image95, .p-Home.Image96, .p-Home.Image97{
+    object-fit: contain;
+}
+
+.p-Home.Div100{
+    top: 25px;
+}
+
+.p-Home.Flex189{
+    box-shadow: 12px 12px 50px 0 rgb(0 0 0 / 20%);
+}
+
+@media screen and (max-width: 991px){
+    .p-Home.Flex144{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 200px 200px 200px 200px 200px;
+    }
+    .p-Home.Div116{
+        grid-column-end: 3;
+        grid-row-end: 6;
+        grid-row-start: 4;
+    }
+    .p-Home.Div119{
+        grid-column-start: 1;
+    }
+    .p-Home.Div121{
+        grid-column-end: 2;
+        grid-column-start: 1;
+        grid-row-end: 4;
+        grid-row-start: 3;
+    }
+    .p-Home.Div123{
+        grid-column-end: 3;
+        grid-column-start: 2;
+        grid-row-end: 4;
+        grid-row-start: 3;
+    }
+    .p-Home.Flex146{
+        left: auto;
+        top: auto;
+        right: 7%;
+        bottom: 0%;
+    }
+    .p-Home.Flex174{
+        right: 7%;
+    }
+}
+@media screen and (max-width: 767px){
+    .p-Home.Flex174{
+        right: 8%;
+    }
+}
+
+@media screen and (max-width: 478px){
+    .p-Home.Flex32{
+        display:flex;
+    }
+    .p-Home.TextBox34, .p-Home.TextBox157, .p-Home.TextBox156, .p-Home.TextBox69{
+        letter-spacing: 0.5px;
+    }
+    .p-Home.Flex151, .p-Home.Flex152{
+        width: 90vw;
+    }
+    .p-Home.Flex144{
+        grid-template-rows: 150px 150px 150px 150px 150px;
+    }
+    .p-Home.Flex-146{
+        right: 12%;
+    }
+}
